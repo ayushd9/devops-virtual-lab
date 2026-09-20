@@ -1,0 +1,7 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+ansible/minikube-linux-amd64
+terraform/aws
